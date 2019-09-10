@@ -1,0 +1,22 @@
+---
+title: My About Page
+---
+
+<!-- this above is automatically query-able as frontmatter -->
+<!-- QUERY: {
+  sitePage(path: {regex: "/about/"}) {
+    context {
+      frontmatter {
+        title
+      }
+    }
+  }
+} -->
+
+import { Box } from 'lukes-theme';
+
+# This is my About Page
+
+This is some content about me.
+
+<Box>This is important content.</Box>
