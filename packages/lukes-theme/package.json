@@ -18,7 +18,7 @@
     "@mdx-js/mdx": "^1.4.5",
     "@mdx-js/react": "^1.4.5",
     "@mdx-js/tag": "^0.20.3",
-    "gatsby-plugin-mdx": "^1.0.40",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-page-creator": "^2.1.17"
   }
 }
